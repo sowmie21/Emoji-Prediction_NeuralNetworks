@@ -9,4 +9,5 @@ Emoji prediction, which estimates an upcoming emoji based on the given text, is 
 Our aim is to predict the most relevant emoji by considering the emotion detection task. Consider a tweet, and with the help of emotion detection - our model will predict emojis related to that text.
 
 Emoji prediction is useful in multiple domains such as for sentiment analysis, emotion recognition, irony detection and hate-speech recognition.
-For better understanding see the ppt attached
+
+For better understanding refer to the ppt attached.
