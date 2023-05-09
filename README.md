@@ -19,7 +19,7 @@ Number of examples : 1,069,910.
 Number of labels : 1
 
 GOEMOTION DATASET :
-Dataset has been taken from github repo of Google Research GoEmotion: https://github.com/google-research/google-research/tree/master/goemotions
+Dataset has been taken from github repo of Google Research GoEmotion: https://github.com/google-research/google-research/tree/master/goemotions .
 GoEmotions is a corpus of 58k carefully curated comments extracted from Reddit, with human annotations to 27 emotion categories or Neutral.
 Number of examples: 58,009.
 Number of labels: 27 + Neutral.
